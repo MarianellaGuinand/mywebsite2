@@ -1,0 +1,22 @@
+
+.page-title {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20em;
+}
+
+.homepage-text {
+    text-align: center;
+    font-size: 1.2em; /* Adjust font size as needed */
+    margin: 20px 0; /* Adds some space around the text */
+}
+
+body {
+    background-image: url('../images/Passport.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
